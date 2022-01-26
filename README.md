@@ -24,7 +24,7 @@ ipympl can be accessed in the notebook by including the magic command `%matplotl
 ## Contents
 [**Part 1: Image Formation and Pinhole Model of the Camera**](https://medium.com/p/53872ee4ee92/edit)
 <br>
-Here we discuss pinhole model of the camera and image formation. We also give an overview of camera extrinsics and camera intrinsics.
+Here we discuss pinhole model of the camera and image formation. We also give an overview of camera extrinsics, camera intrinsics, and camera calibration.
 <br>
 <br>
 [**Part 2: Camera Extrinsics in Python**](https://medium.com/p/cfe80acab8dd/edit)
