@@ -22,26 +22,26 @@ There are two main libraries we'll be using:
 ipympl can be accessed in the notebook by including the magic command `%matplotlib widget`
 
 ## Contents
-[**Part 1: Image Formation and Pinhole Model of the Camera**](https://medium.com/p/53872ee4ee92/edit)
+[**Part 1: Image Formation and Pinhole Model of the Camera**](https://medium.com/p/53872ee4ee92)
 <br>
 Here we discuss pinhole model of the camera and image formation. We also give an overview of camera extrinsics, camera intrinsics, and camera calibration.
 <br>
 <br>
-[**Part 2: Camera Extrinsics in Python**](https://medium.com/p/cfe80acab8dd/edit)
+[**Part 2: Camera Extrinsics in Python**](https://medium.com/p/cfe80acab8dd)
 <br>
 Here we discuss camera extrinsic matrix in depth including change of basis and linear transformation in rotation and translation.
 <br>
 <br>
-[**Part 3: Camera Intrinsics in Python**](https://medium.com/p/d79bf2478c12/edit)
+[**Part 3: Camera Intrinsics in Python**](https://medium.com/p/d79bf2478c12)
 <br>
 Here we discuss camera intrinsic matrix, and the projection transformation of the points from camera coordinate system to the image plane of the camera.
 <br>
 <br>
-[**Part 4: Positive Definite Matrices and Ellipsoids**](https://medium.com/p/79c2a3b397fc/edit)
+[**Part 4: Positive Definite Matrices and Ellipsoids**](https://medium.com/p/79c2a3b397fc)
 <br>
 Here we discuss the properties of positive definite matrices which we'll later use in camera calibration.
 <br>
 <br>
-[**Part 5: Camera Calibration in Python**](https://medium.com/p/5147e945cdeb/edit)
+[**Part 5: Camera Calibration in Python**](https://medium.com/p/5147e945cdeb)
 <br>
 Here we discuss the different methods of camera calibration in python with examples.
